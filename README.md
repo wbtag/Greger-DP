@@ -4,7 +4,9 @@ Supplementary information and files (appendices) for the diploma thesis "The Pol
 The appendices are as follows:
 
 Appendix A - Data codebook (.html)
+
 Appendix B - Analysis dataset (.xlsx)
+
 Appendix C - Text of the thesis including R code (.rmd)
 
 In case of any issues with the files, please contact the author via e-mail at 96000997@fsv.cuni.cz.
