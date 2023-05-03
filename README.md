@@ -1,5 +1,5 @@
 # Greger-MT
-Supplementary information and files (appendices) for the diploma thesis "The Polish model of the populist party: a new perspective on the populist radical right".
+Supplementary information and files (appendices) for the diploma thesis "The Polish model of the populist party: a new perspective on the populist radical right" by Vojtěch Greger.
 
 The appendices are as follows:
 
